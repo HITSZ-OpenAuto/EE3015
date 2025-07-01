@@ -4,8 +4,9 @@
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-40%25-wheat)
-![期末考试60%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-60%25-wheat)
+![作业20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
+![课程报告（展示）10%](https://img.shields.io/badge/课程报告（展示）-10%25-wheat)
+![期末考试70%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat)
 
 ![总学时48](https://img.shields.io/badge/总学时-48-wheat)
 ![授课44](https://img.shields.io/badge/授课-44-wheat) 
@@ -22,10 +23,13 @@
 ## 授课教师
 
 - 张弦
-  - 授课风格：
-  - 听课建议：
+  - 讲课非常好，PPT非常详细，建议十分认真听课。
 
 ## 关于考试
+
+考试的概念和计算量十分大（概念十分细节，建议PPT反复看，有些题目需要自己总结，PPT上是分散的），计算题需要十分熟练掌握作业题。
+
+> 文 / [SSC](https://github.com/SSC202)，2024.11
 
 ## 学习建议
 
