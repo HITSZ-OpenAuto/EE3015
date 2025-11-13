@@ -1,0 +1,189 @@
+ID: "EE3015"
+SimilarID: []
+Name: "电力系统分析"
+CourseProperty:
+  - Major:
+      - Year: "2024_2025"
+        Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE3015"
+    CourseName: "电力系统分析"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "课程报告（展示）"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "44"
+      - Name: "实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2025_2026"
+        Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE3015"
+    CourseName: "电力系统分析"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "课程报告（展示）"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "44"
+      - Name: "实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2020_2021"
+        Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "EE3015"
+    CourseName: "电力系统分析"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "课程报告（展示）"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "44"
+      - Name: "实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2021_2022"
+        Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "EE3015"
+    CourseName: "电力系统分析"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "课程报告（展示）"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "44"
+      - Name: "实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2022_2023"
+        Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE3015"
+    CourseName: "电力系统分析"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "课程报告（展示）"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "44"
+      - Name: "实验"
+        Hour: "4"
+
+  - Major:
+      - Year: "2023_2024"
+        Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "EE3015"
+    CourseName: "电力系统分析"
+    Credit: "3.0"
+    CourseHour: "48.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "20"
+      - Name: "课程报告（展示）"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "44"
+      - Name: "实验"
+        Hour: "4"
