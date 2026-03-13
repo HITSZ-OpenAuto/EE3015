@@ -7,6 +7,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 张弦
   <!-- TOML-ITEM: id="review-张弦-1" -->
   - 讲课非常好，PPT非常详细，建议十分认真听课。
