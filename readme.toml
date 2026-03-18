@@ -53,7 +53,6 @@ author = { name = "ZSA", link = "https://github.com/Oliverzsa", date = "2025-07"
 content = "选择和填空主要考察一些小概念，分析题考察一些大的概念和不太涉及计算的部分（如复杂潮流的计算机算法、有功与无功的传输、稳定分析等），计算题主要考察元件建模、频率调整、潮流计算、短路计算，题目基本出自作业题和上课例题，期末一定要好好复习。"
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2026-01" }
 
-
 [[sections]]
 title = "关于实验"
 
@@ -61,7 +60,6 @@ title = "关于实验"
 content = "22 级起，本门课有一节 4 学时的上机实验，使用 MatLab 中的 MATPOWER 和 PowerGui 进行复杂电力系统网络的计算机算法模拟，实验较无聊，调试困难，能速通就速通。实验老师为李文立老师，老师人很好。"
 
 [[sections]]
-
 title = "学习建议"
 
 [[sections.items]]
