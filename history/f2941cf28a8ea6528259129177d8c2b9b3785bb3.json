@@ -1,0 +1,117 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814539,
+    "hash": "886017af7376bed33f1da7c9f280f44a2afb0fd8"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1751009759,
+    "hash": "adb673de62a1d0c5273d1ee8919a8550bb81e95d"
+  },
+  "README.md": {
+    "size": 5384,
+    "time": 1773843565,
+    "hash": "d7bb062ab8bca17c06a913d44f85eca874c63051"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1751009759,
+    "hash": "adb673de62a1d0c5273d1ee8919a8550bb81e95d"
+  },
+  "assignments/2025秋Gaster/电力系统分析作业1.pdf": {
+    "size": 351294,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "assignments/2025秋Gaster/电力系统分析作业2.pdf": {
+    "size": 347071,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "assignments/2025秋Gaster/电力系统分析作业3.pdf": {
+    "size": 324267,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "assignments/2025秋Gaster/电力系统分析作业4.pdf": {
+    "size": 392881,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "assignments/2025秋Gaster/电力系统分析作业5.pdf": {
+    "size": 126468,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "assignments/2025秋Gaster/电力系统分析作业6.pdf": {
+    "size": 286780,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "assignments/2025秋Gaster/电力系统分析作业7.pdf": {
+    "size": 117519,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "assignments/2025秋Gaster/电力系统分析作业8.pdf": {
+    "size": 250912,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1751009759,
+    "hash": "adb673de62a1d0c5273d1ee8919a8550bb81e95d"
+  },
+  "exams/2024秋电力系统分析期末试题（回忆版）.pdf": {
+    "size": 1353648,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "exams/2025秋电力系统分析期末试题（回忆版）.pdf": {
+    "size": 1376586,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1751009759,
+    "hash": "adb673de62a1d0c5273d1ee8919a8550bb81e95d"
+  },
+  "labs/2025秋电力系统分析实验报告-Gaster.pdf": {
+    "size": 1828852,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1751009759,
+    "hash": "adb673de62a1d0c5273d1ee8919a8550bb81e95d"
+  },
+  "notes/2024秋电力系统分析-zsa.pdf": {
+    "size": 3406612,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "notes/2024秋电力系统分析笔记-SSC.pdf": {
+    "size": 37021608,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "notes/2025秋电力系统分析笔记-Gaster.pdf": {
+    "size": 12870235,
+    "time": 1768406120,
+    "hash": "36b0132031604209901270db124d39d03aade6c6"
+  },
+  "readme.toml": {
+    "size": 5311,
+    "time": 1773843581,
+    "hash": "4a650a56138ba030ae31cae67bbe2eb16f6347c4"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1751009759,
+    "hash": "adb673de62a1d0c5273d1ee8919a8550bb81e95d"
+  }
+}
